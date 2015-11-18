@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://svargellin.github.io
+title: Pavel Kukushkin
+tagline: A log of smartass
+description: My awesome new site
+paginate: 5
